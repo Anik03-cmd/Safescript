@@ -1,0 +1,54 @@
+# -----------------------------
+# Python
+# -----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# -----------------------------
+# Environment Variables
+# -----------------------------
+.env
+
+# -----------------------------
+# IDE / Editor
+# -----------------------------
+.vscode/
+.idea/
+
+# -----------------------------
+# OS Files
+# -----------------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# Logs
+# -----------------------------
+*.log
+
+# -----------------------------
+# OCR / Generated Files
+# -----------------------------
+uploaded.png
+uploaded_raw
+report.pdf
+
+# -----------------------------
+# Data Files (optional)
+# remove this if you WANT to upload your dataset
+# -----------------------------
+*.csv
+*.xlsx
+
+# -----------------------------
+# Cache / Misc
+# -----------------------------
+.cache/
+.ipynb_checkpoints/
